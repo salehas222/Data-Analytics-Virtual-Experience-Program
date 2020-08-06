@@ -25,3 +25,5 @@ You will also be required to use the `QVI_purchase_behaviour.csv` and `QVI_trans
 
 ### Result 
 
+<strong> Older people contributes more to the chip's sales then younger people. </strong>
+<img src="./Capture" />
