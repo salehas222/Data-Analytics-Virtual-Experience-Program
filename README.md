@@ -1,4 +1,4 @@
-# Understand the chips buyer behavior
+# Understand the chips buyer's behavior
 ## Data_cleaning_visualizing
 
 ### Introduction 
