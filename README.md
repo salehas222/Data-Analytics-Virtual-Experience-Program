@@ -1,4 +1,4 @@
-# Data-Analytics-Virtual-Experience-Program
+# Understand the chips buyer behavior
 ## Data_cleaning_visualizing
 
 ### Introduction 
